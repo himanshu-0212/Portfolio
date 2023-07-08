@@ -1,0 +1,20 @@
+﻿Himanshu Singh                                                         Email: hubli0212@gmail.com https://www.linkedin.com/in/himanshu-singh-832321232/                                         Mobile: 8766547160 
+https://github.com/himanshu-0212 
+https://himanshu-0212.github.io/Portfolio/
+Education 
+Smt.kg.mittal College of arts and commerce Mumbai, Bachelor of Science in Computer Science; CGPA: 6.99/10.0         2019 - 2022.
+Technical Skills 
+• Languages: Html5, Css3, Javascript,  Bootstrap, React js, Python, Django, Mssql, C++
+Experience 
+• Designed and Developed an E-commerce website 
+HTML5, CSS3, Bootstrap 
+Projects 
+• “E-Commerce Website”: Designed and developed an E-commerce website from scratch by using HTML5, CSS3, JavaScript,, Bootstrap for the frontend development
+• “Portfolio”: Designed a Portfolio about myself
+• React js :- Created many Projects Like Pokedex, Dice game, Coin, Color-Box, Lottery, etc.
+• Django :- Created Login/Signup page which can store data into database.
+• Fire Alarm System :- Fire alarm is a system which is used to detect the fire, it is IOT based project
+• Railway Reservation website :- The Railway Reservation System facilitates the passengers to enquire about the trains available on the basis of source and destination, Booking and Cancellation of tickets, enquires.The aim of case study is to design and develop a database maintaining the records of different trains, trains status, and passengers. 
+Co-curricular activities 
+• Served as a member for blood donation camp at andheri
+• Participated in multiple workshops on Cross Platform app development.
