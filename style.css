@@ -32,7 +32,6 @@ section {
   display: inline-block;
   transition: all 0.4s ease-in-out;
   padding: 10px 27px;
-  color: #c6c9d8bf;
   font-weight: 500 !important;
   font-size: 14px;
   text-transform: uppercase;
@@ -287,7 +286,7 @@ button {
   width: 100%;
   height: 600px;
   min-height: 650px;
-  background-image: url(imgs/bg-img.jpg);
+  background-image: url(imgs/bg-wallpaper.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -668,7 +667,7 @@ button {
   position: relative;
   bottom: 15%;
   opacity: 10;
-  transition: .8s ease-in-out;
+  transition: 0.8s ease-in-out;
 }
 
 .box:before {
@@ -981,4 +980,102 @@ button {
 }
 .sci li a:hover .fa {
   color: #fff;
+}
+
+/* banner */
+
+.banner-wrapper {
+  padding: 200px 0;
+}
+
+.header_wrapper .menu-navbar-nav {
+  text-align: center;
+  padding-bottom: 15px;
+}
+
+.header_wrapper .nav-item .nav-link {
+  margin-top: 15px;
+}
+
+/* Responsive */
+
+@media (max-width: 441px) {
+  .banner_wrapper {
+    height: 700px;
+  }
+
+  #main-btn-id {
+    position: relative;
+    left: 12.5%;
+  }
+}
+
+@media (max-width: 520px) {
+  .text-zone h1::after {
+    display: none;
+  }
+  .banner_wrapper {
+    background-image: url(imgs/bg-wallpaper2.jpg);
+  }
+}
+
+@media (max-width: 767px) {
+  h1 {
+    font-style: 40px;
+    line-height: 40px;
+  }
+
+  h2 {
+    font-style: 25px;
+  }
+
+  p {
+    font-style: 13px;
+    line-height: 24px;
+  }
+
+  .about_wrapper ul.nav-pills {
+    width: 100%;
+    margin: auto;
+    border: 0;
+  }
+
+  .portfolio_wrapper .card {
+    min-height: 500px;
+  }
+
+  .about_wrapper ul li .nav-link {
+    font-style: 13px;
+  }
+
+  #main-btn-id {
+    padding: 20px 22px;
+    margin: 40px 0;
+    font-size: 18px;
+    letter-spacing: 2px;
+  }
+}
+
+@media (max-width: 991px) {
+  section {
+    padding: 30px 0;
+  }
+
+  h2 {
+    font-style: 30px;
+    line-height: 40px;
+  }
+
+  h3 {
+    font-style: 20px;
+  }
+
+  .about_wrapper ul.nav-pills {
+    width: 56.5%;
+    margin: auto;
+  }
+
+  .portfolio_wrapper .card {
+    min-height: 400px;
+  }
 }
