@@ -1014,6 +1014,9 @@ button {
   .text-zone h1::after {
     display: none;
   }
+  .banner_wrapper {
+    background-image: url(imgs/bg-wallpaper2.jpg);
+  }
 }
 
 @media (max-width: 767px) {
